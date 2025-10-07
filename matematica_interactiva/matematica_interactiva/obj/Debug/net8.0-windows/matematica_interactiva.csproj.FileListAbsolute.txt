@@ -1,0 +1,16 @@
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\bin\Debug\net8.0-windows\matematica_interactiva.exe
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\bin\Debug\net8.0-windows\matematica_interactiva.deps.json
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\bin\Debug\net8.0-windows\matematica_interactiva.runtimeconfig.json
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\bin\Debug\net8.0-windows\matematica_interactiva.dll
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\bin\Debug\net8.0-windows\matematica_interactiva.pdb
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.Form1.resources
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.csproj.GenerateResource.cache
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.AssemblyInfoInputs.cache
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.AssemblyInfo.cs
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.dll
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\refint\matematica_interactiva.dll
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.pdb
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\matematica_interactiva.genruntimeconfig.cache
+C:\Users\Daria\Desktop\matematica_interactiva\matematica_interactiva\obj\Debug\net8.0-windows\ref\matematica_interactiva.dll
